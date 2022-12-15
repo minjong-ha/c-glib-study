@@ -14,4 +14,11 @@ Glib supports low-level library for data structures, portability wrappers, __eve
 
 [GLib](https://github.com/GNOME/glib)
 
+## log.c
+
+Simple but good log library in C
+
+[log.c](https://github.com/rxi/log.c)
+
+
 
